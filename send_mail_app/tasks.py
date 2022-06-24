@@ -18,7 +18,7 @@ def send_mail_func(self):
     for user in users:
         mail_subject = "Hi! Celery Testing"
         message = "If you like my video please click the like button"
-        to_email = "isaacadedayo1@gmail.com"
+        to_email = "*****@gmail.com"
         send_mail(
             subject=mail_subject , message=message , from_email=settings.EMAIL_HOST_USER,
             recipient_list=[to_email],
