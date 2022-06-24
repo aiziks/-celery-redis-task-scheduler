@@ -1,4 +1,4 @@
-# -celery-redis-task-scheduler
+# -celery-redis-task-scheduler   Python(Django)
 
 1. Install app requirements packages using 'pip install -r requirements.txt'
 
